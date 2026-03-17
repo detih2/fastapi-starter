@@ -29,7 +29,7 @@ Production-ready REST API template built with FastAPI, SQLAlchemy 2.0, and Postg
 ### Run with Docker (recommended)
 
 ```bash
-git clone https://github.com/yourusername/fastapi-starter.git
+git clone https://github.com/detih2/fastapi-starter.git
 cd fastapi-starter
 cp .env.example .env
 docker compose up -d
